@@ -19,3 +19,8 @@
     background: green;
 }
 
+.cell {         
+    width: 10px;
+    text-align: center;
+}
+
