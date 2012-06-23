@@ -1,0 +1,21 @@
+@CHARSET "windows-31j";
+
+#container {
+	padding: 10px 50px;
+	margin: 0 auto;
+}
+
+#game {
+	width: 300px;
+	height: 500px;
+	float: left;
+	background: red;
+}
+
+#info {
+    width: 300px;
+    height: 500px;
+    float: left;
+    background: green;
+}
+
